@@ -1,0 +1,12 @@
+{
+  "profile": "python",
+  "verify": {
+    "format": "ruff format --check .",
+    "lint": "ruff check .",
+    "typecheck": "",
+    "test": "pytest -q"
+  },
+  "on_edit": [
+    { "match": "*.py", "format": "ruff format {file}", "lint": "ruff check {file}" }
+  ]
+}

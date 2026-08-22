@@ -6,9 +6,10 @@
 ## Stack kararları (toolchain)
 
 > **Toolchain sürümlerinin kanonik kaynağı:** `devkit-wiki/registry/stack-registry.yaml`
-> (profil `python`). Aşağıdaki tablo oradan türetilmiştir — sürüm değişecekse
-> **önce registry'de** değiştir, sonra burayı güncelle. `lint-wiki.sh` registry'nin
-> bu profile ve template'e gerçekten işaret ettiğini doğrular.
+> (profil `python`; foundation'da vendored kopya: `wiki/registry/stack-registry.yaml`).
+> Aşağıdaki tablo oradan türetilmiştir — sürüm değişecekse **önce registry'de** değiştir,
+> sonra burayı güncelle. Upstream'de `lint-wiki.sh` referansların varlığını, foundation'da
+> `tests/registry-sync.py` tablodaki araçların registry ile eşleştiğini doğrular.
 
 
 | Karar | Seçim |

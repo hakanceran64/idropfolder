@@ -326,3 +326,27 @@ This project is licensed under the PolyForm Noncommercial License 1.0.0.
 iDropFolder is source-available for non-commercial use only. Commercial use is not permitted without prior written permission from the author.
 
 Copyright (c) 2026 Yusuf Özdaş.
+
+## 📊 Kod İstatistikleri
+
+<!-- ceran-loc:start -->
+> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-08-23
+> Hariç: ceran-loc
+
+| Dosya | Kod | Yorum | Boş | Toplam |
+|---:|---:|---:|---:|---:|
+| 47 | **2.170** | 448 | 595 | 3.213 |
+
+| Uzantı | Kod | Yorum | Boş | Dosya | Pay |
+|---|---:|---:|---:|---:|---:|
+| `.md` | 1.038 | 4 | 415 | 26 | %47 |
+| `.py` | 506 | 345 | 84 | 2 | %23 |
+| `.sh` | 295 | 93 | 50 | 7 | %13 |
+| `.json` | 159 | 0 | 0 | 2 | %7 |
+| `(uzantısız)` | 99 | 0 | 42 | 2 | %4 |
+| `.example` | 40 | 0 | 0 | 3 | %1 |
+| `.bat` | 16 | 0 | 3 | 1 | %0 |
+| `.yaml` | 13 | 5 | 1 | 2 | %0 |
+| `.gitignore` | 2 | 1 | 0 | 1 | %0 |
+| `.txt` | 2 | 0 | 0 | 1 | %0 |
+<!-- ceran-loc:end -->

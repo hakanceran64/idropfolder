@@ -9,7 +9,7 @@
 iDropFolder, iPhone’daki seçtiğiniz fotoğraf ve videoları Windows 11 bilgisayardaki bir klasöre kablosuz olarak yüklemek için hazırlanmıştır.
 
 - **Teknoloji:** Python 3.11+ · ruff · pytest · hatchling
-- **Çalışma dizini:** `/Users/ceran/Backup/GitHub/hakanceran64/idropfolder`
+- **Çalışma dizini:** `/Users/ceran/Backup/GitHub/forks/idropfolder`
 - **Ekosistem profili:** python
 
 - Son commit: 2026-06-18 · Commit sayısı: 4 · Remote: origin

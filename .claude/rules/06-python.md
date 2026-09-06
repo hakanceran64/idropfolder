@@ -43,5 +43,5 @@
 
 ## İlgili
 
-- Çekirdek: [05-kod-kalitesi](05-kod-kalitesi.md)
+- Çekirdek: `~/.claude/rules/ceran/kod-kalitesi.md`
 - Stack/bootstrap kararları: `claude-foundation/docs/NEW-PROJECT-DECISIONS.md`
